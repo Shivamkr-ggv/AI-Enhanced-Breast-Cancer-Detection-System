@@ -5,5 +5,5 @@ This project uses various algorithms:
 - Linear Support Vector Machine (SVM). 
 - Gaussian Naive Bayes (NB).
 - K-Nearest Neighbours (KNN).
-- Random Forest (RF). 
+- Random Forest (RF)
 Built a complete end-to-end ML pipeline using Python, Scikit-learn, Pandas, and NumPy, enabling efficient data preprocessing, training, validation, and testing.
